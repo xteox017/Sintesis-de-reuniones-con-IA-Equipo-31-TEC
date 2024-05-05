@@ -1,0 +1,1 @@
+# Sintesis-de-reuniones-con-IA-Equipo-31-TEC
