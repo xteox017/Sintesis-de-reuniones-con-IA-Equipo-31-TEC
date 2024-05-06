@@ -1,0 +1,1234 @@
+-¿Estás bien?
+-Sí.
+
+Relájate.
+
+Jaron Lanier es uno
+de los gurús de Silicon Valley
+
+que tuvo visiones utópicas
+sobre el futuro de Internet
+
+mucho antes
+de que existieran las computadoras,
+
+los teléfonos celulares
+o las redes sociales.
+
+Fue el pionero
+de la realidad virtual en los 80.
+
+Vendió empresas a Google, Adobe y Oracle,
+y ahora trabaja en Microsoft.
+
+Con el tiempo,
+se convirtió en un feroz crítico
+
+de la industria
+que ayudó a construir.
+
+Normalizamos el hecho
+de no saber de dónde proviene Internet,
+
+pero esa es
+una forma errónea de abordar la IA.
+
+Pero sigue eligiendo ser parte de ella.
+
+En este episodio de AI IRL
+Lanier, el experto en tecnología,
+
+nos brinda una visión sin filtros
+del lado oscuro de esa industria
+
+y su repercusión en el futuro de la IA.
+
+Jaron Lanier, bienvenido al programa.
+
+Ahora eres lo que se conoce
+
+como el científico
+de unificación principal en Microsoft.
+
+Y en mi opinión personal,
+debo decirte que realmente me fascina
+
+la idea de cumplir
+con ese rol en una empresa.
+
+¿Pero qué significa exactamente?
+
+Ese título surgió como una broma,
+porque las siglas en inglés
+
+de la oficina del director de tecnología
+y del científico de unificación principal
+
+forman la palabra octopus,
+que en español significa pulpo.
+
+Y mis estudiantes suelen decirme
+
+que me parezco bastante
+a un pulpo físicamente.
+
+Además, me interesa mucho
+el sistema neurológico
+
+de esos animales, es fascinante.
+
+Entonces, creímos que sería
+un título apropiado.
+
+Estoy completamente de acuerdo.
+
+Hay muchos temas
+que queremos hablar contigo
+
+porque tienes
+una carrera extensa y fascinante,
+
+y creo que es muy importante poner
+tu trabajo en contexto,
+
+porque hace 40 años estabas desarrollando
+tecnologías en empresas como Atari.
+
+Por eso me gustaría que nos cuentes,
+¿cuál era tu opinión con respecto
+
+a la trayectoria
+de la industria en ese entonces
+
+y cómo comparas lo que sucede hoy
+
+con las expectativas
+que tenías al respecto?
+
+Esa es una pregunta interesante,
+creo que nunca me la habían planteado.
+
+Y la verdad es que me cuesta
+recordar el pasado.
+
+Imagina que tienes una máquina del tiempo.
+
+Bueno.
+
+A fines de los años 70
+y principios de los 80,
+
+cuando era un adolescente,
+
+tuve un mentor llamado Marvin Minsky,
+para quien trabajé como investigador.
+
+Y él fue el creador principal de la IA
+tal como la conocemos en la actualidad.
+
+Muchos de los tropos,
+historias, preocupaciones
+
+y formas de abordar la tecnología fueron
+ideas originales de Marvin.
+
+A mí no me gustaba para nada su enfoque.
+
+Yo siempre creí que la IA
+tenía que servir como medio
+
+para que las personas trabajaran
+juntas desde el anonimato.
+
+Siempre pensé que construir una entidad
+como si fuera un Dios artificial
+
+era un error.
+
+Y a Marvin le encantaba discutir conmigo
+
+porque sus otros empleados del laboratorio
+estaban de acuerdo con él.
+
+Entonces, la última vez que lo vi
+antes de que muriera
+
+me preguntó si podíamos volver a tener
+un debate de los nuestros.
+
+Y esa charla fue maravillosa.
+
+Pero el hecho de pensar
+que sus ideas eran equívocas,
+
+me llevó a desarrollar
+una teoría que era contraria ellas,
+
+y la llamé realidad virtual.
+
+Así fue como creé la primera empresa
+emergente relacionada con esa tecnología
+
+y logramos hacer
+el primer auricular de realidad virtual
+
+con soporte para la cabeza.
+
+¿Eras optimista con respecto al rumbo
+que estaban tomando las cosas?
+
+Soy más optimista ahora,
+
+pero yo soy fiel creyente
+de que, para ser optimista,
+
+es imprescindible tener el coraje
+de ser un crítico muy duro.
+
+Aquellos que son críticos creen
+que las cosas pueden mejorar.
+
+Ellos son los verdaderos optimistas,
+
+aunque no les guste admitirlo
+y no quieran parecer maleables.
+
+Las personas críticas creen
+realmente en el progreso.
+
+Y, por otro lado,
+
+las personas conformistas
+son bastante inútiles.
+
+Yo solía pelearme con Marvin
+por la inteligencia artificial.
+
+Desde ese entonces he sido muy crítico
+
+con respecto a la forma
+en la que se abordaron las redes sociales
+
+y otros temas.
+
+Y sigo siéndolo.
+
+Por eso me considero un optimista.
+
+Jaron, me gustaría
+que abriéramos un debate
+
+sobre la desinformación
+en relación con la publicidad
+
+y de cómo hoy en día eso está incorporado
+con naturalidad en las redes sociales.
+
+Ya sabemos que la IA generativa
+está cambiando muchos paradigmas,
+
+pero creo que las empresas
+
+la están aplicando
+más que nada a la publicidad
+
+para generar más ingresos.
+
+¿Cuál es tu opinión con respecto a eso?
+
+Voy a hablar en carácter personal
+y no en nombre de Microsoft.
+
+La realidad es que hay muchas personas
+que eligen no pagar las tarifas de la IA
+
+y utilizan la versión gratuita.
+
+Pero al pagar esas tarifas
+se obtiene libertad.
+
+Es decir, al suscribirse a la IA de pago,
+las personas evitan ser manipuladas.
+
+Y en cualquier economía de mercado
+tiene que haber clientes,
+
+que pueden ser los usuarios
+o entidades que quieren manipularlos.
+
+Esas son las opciones.
+
+Tenemos que aceptar que para ser
+participantes de una economía de mercado,
+
+debemos comprometernos
+a hacerlo de forma completa.
+
+De otra manera,
+
+siempre estaremos subyugados
+a quienes sí son parte de ella.
+
+Entonces, ¿deberíamos pagar por la IA?
+
+Creo que ni a mí ni a nadie
+nos gusta gastar dinero.
+
+Pero en una economía de mercado,
+
+las personas que no están dispuestas
+a pagar por ciertos servicios
+
+están permitiendo
+que alguien más se beneficie
+
+a partir de la manipulación
+de esos usuarios.
+
+Y esa es una dinámica
+completamente lógica e ineludible.
+
+Es una realidad
+que hoy en día estamos navegando
+
+por los dominios del código abierto,
+
+y en el ámbito
+de la inteligencia artificial,
+
+hay un debate sobre si el impulso
+
+de hacer que ciertos modelos
+sean de código abierto
+
+podría exacerbar
+el riesgo de desinformación.
+
+Quisiera saber qué piensas sobre eso.
+
+Este es un tema bastante complejo
+y mis opiniones al respecto
+
+a veces generan críticas negativas
+por parte de mis colegas,
+
+pero voy a tratar de expresarlas.
+
+Creo que el concepto
+de código abierto se ideó
+
+con intenciones realmente buenas
+
+y que las personas que apoyan
+ese enfoque piensan que hace
+
+que la tecnología sea más abierta,
+democrática, honesta y segura.
+
+El problema con esto son
+las matemáticas de los efectos de red.
+
+Por ejemplo, si un grupo de personas
+comparte información de forma gratuita,
+
+ya sea música,
+
+códigos computacionales
+o cualquier otra cosa,
+
+se forma una comunidad que funciona
+
+como una especie
+de sistema de trueque gigante.
+
+Pero el problema que surge
+de ese intercambio de elementos gratuito
+
+es que inevitablemente crea un monopolio
+por una cuestión matemática.
+
+Y luego, ese monopolio se convierte
+en empresas gigantes como Google.
+
+Entonces,
+
+en lugar de lograr la descentralización,
+se genera una hipercentralización.
+
+Y después, esos centros de datos
+
+se verán incentivados
+a mantener cierta información en secreto,
+
+como sus algoritmos o sus datos derivados,
+
+que son muy caros de generar
+
+y sirven para mostrar
+cómo se correlacionan las cosas.
+
+Y creo que esta idea
+
+de que la apertura conduce
+a la descentralización es falsa,
+
+y hay fundamentos matemáticos
+y muchos ejemplos para demostrarlo.
+
+Sin embargo, muchos siguen creyendo
+
+que aportar datos
+de forma gratuita es algo bueno,
+
+cuando en realidad
+es un modelo que no funciona.
+
+Entiendo.
+
+Pero muchos sostienen
+que los sistemas de IA,
+
+y en particular
+los grandes modelos de lenguaje,
+
+son un misterio para la mayoría.
+
+Entonces,
+
+si tenemos un modelo de código abierto,
+al menos podemos ver cómo funciona.
+
+Yo pienso que hay una forma de apertura
+que sería beneficiosa para todos,
+
+incluidos los propietarios
+de los grandes modelos,
+
+los usuarios y la sociedad en general.
+
+Pero la clave no está
+en liberar el código,
+
+porque eso tiende a fomentar
+
+el crecimiento
+de los monopolios emergentes,
+
+algo que le conviene a unos pocos.
+
+Lo que deberíamos hacer
+en realidad es conocer las fuentes.
+
+Voy a dar un ejemplo.
+
+Imaginemos que un usuario interactúa
+con un bot conversacional
+
+y este comienza
+a decirle cosas extrañas como:
+
+«Te amo, divórciate,
+deberíamos estar juntos».
+
+Hay una manera de prevenir eso,
+
+pero es difícil cuando una IA gobierna
+a otra IA y simplemente le dice:
+
+«No actúes tan raro, basta».
+
+Y la razón
+
+por la que se vuelve difícil controlar
+la efectividad de los resultados de la IA
+
+es por las limitaciones
+del lenguaje en sí,
+
+y la humanidad se ha enfrentado
+a ese problema durante miles de años.
+
+Por ejemplo, según la antigua historia
+del genio y la lámpara,
+
+el genio concedía los deseos
+del dueño de la lámpara mágica,
+
+pero muchas veces sus palabras
+podían malinterpretarse
+
+y los deseos se convertían en problemas.
+
+Y eso mismo sucede ahora
+que la IA se autogobierna,
+
+porque las palabras
+son más ambiguas de lo que creemos
+
+y pueden generar confusión.
+
+Y esa imprecisión de las palabras
+
+es lo que hace
+que los grandes modelos funcionen,
+
+porque en primer lugar se rigen
+
+a partir de cálculos estadísticos
+que funcionan muy bien.
+
+Pero hay otra forma efectiva
+de optimizar los resultados de la IA.
+
+Porque todas las respuestas de la IA
+
+se basan en miles de millones de datos
+que aporta la humanidad en general,
+
+por ejemplo fotos o textos.
+
+Pero siempre habrá algún caso
+
+en el que la IA no disponga
+de tanta información
+
+para alimentarse
+y generar un resultado,
+
+quizás encuentre solamente
+unos dos ejemplos o algo así.
+
+Y hago este gesto para representar
+una especie de montaña de estadísticas.
+
+Se trata de un análisis matemático.
+
+En ese caso, lo mejor es rastrear
+
+la fuente de esa información
+que está disponible.
+
+Imaginemos que el bot brinda
+información dudosa
+
+y el usuario le pregunta
+de dónde la obtuvo exactamente.
+
+Y el bot responde que sus fuentes
+fueron novelas eróticas y telenovelas.
+
+Entonces, el usuario le enseña al bot
+que no utilice esa información.
+
+Luego, ese bot sabrá
+cuáles fuentes combinar
+
+para crear el resultado de IA,
+
+porque así es como funciona
+el modelo de la inteligencia artificial.
+
+Su magia es que puede tomar
+información de las personas
+
+y combinarla de manera coherente.
+
+Por ejemplo, se puede utilizar
+un reconocedor de gatos
+
+y otro de globos aerostáticos
+y pedirle a la IA que los combine.
+
+Entonces, tomará al azar ambos elementos
+
+para obtener un gato
+en un globo aerostático.
+
+Es fantástico
+
+y siempre se puede volver atrás,
+pero no lo hacemos porque normalizamos
+
+el hecho de no saber
+de dónde proviene Internet.
+
+Pero esa es una forma
+errónea de abordar la IA.
+
+Y ya que este es un canal
+orientado a los negocios,
+
+es pertinente plantear mi teoría
+de que si se pudiera identificar
+
+a aquellos que contribuyen
+con los resultados de IA,
+
+se podría incentivar a las personas
+
+a que aporten nuevos datos
+que mejoren el sistema.
+
+Y en segundo lugar,
+se podría compensar a esas personas.
+
+Creo que de esa manera se evitaría
+el desplazamiento de los trabajadores
+
+y que tengan que recurrir
+a la renta básica universal,
+
+que sería un panorama terrible,
+
+porque concentrar el mercado
+en un solo pagador es malo,
+
+como sucede en los sistemas totalitarios
+
+en los que una sola
+entidad tiene el control total.
+
+A propósito de este tema,
+
+me gustaría hablar
+de lo que llamas dignidad de datos,
+
+que es la idea de compensar
+a quienes suben datos a la red,
+
+especialmente si se usan
+para entrenar algoritmos.
+
+¿Cómo funciona eso en la práctica?
+
+Para lograr eso tenemos que identificar
+
+y presentar cuáles fueron
+las fuentes humanas
+
+que se utilizaron
+para construir cierto resultado de IA.
+
+Y hasta ahora eso no se ha implementado,
+
+pero se puede hacer
+de forma eficiente y efectiva.
+
+Sin embargo,
+
+cambiar la dinámica de la actualidad
+tiene que ser una decisión de la sociedad.
+
+Y hay que tener en cuenta
+que hay muchos detractores
+
+a los que no les interesaría
+recibir dinero por sus aportes.
+
+La verdad es que todavía
+hay que ajustar este nuevo paradigma.
+
+Pero lo importante es minimizar
+
+la cantidad de personas que dependen
+de los pagos del Estado para sobrevivir
+
+e impulsar a los usuarios
+a crear más datos que hagan
+
+que los modelos funcionen mejor,
+de modo que todos se beneficien.
+
+En la década de los 90,
+manifestaste que los bots conversacionales
+
+podrían llegar a impactar
+en la democracia y las elecciones.
+
+Y eso fue hace unos 30 años.
+
+Buenas épocas.
+
+Hace mucho que escribo sobre esto,
+
+desde cuando los bots conversacionales
+se llamaban agentes.
+
+Qué miedo.
+
+En ese momento, existía
+el lenguaje ocasional
+
+que se usó en las películas de Matrix
+
+para crear a los personajes de IA
+que parecían agentes secretos.
+
+Y sí, daban miedo.
+
+Se suponía que los agentes
+estaban diseñados para ayudar,
+
+pero yo siempre creí
+que iban a corromperse.
+
+Para mí siempre fue evidente
+que no funcionarían.
+
+¿Qué opinas sobre el riesgo que suponen
+los bots conversacionales de hoy
+
+para la democracia?
+
+Pronto lo sabremos.
+
+La verdad es que tengo miedo.
+
+Y me siento así principalmente
+porque recuerdo la última vez
+
+en la que las redes sociales
+estuvieron involucradas en la política
+
+y que mucha gente
+se sintió aterrada o preocupada.
+
+Y eso provocó
+que las grandes empresas de tecnología
+
+redujeran en cierto nivel
+los controles y las correcciones.
+
+Entonces, en cierto sentido,
+la situación podría ser peor.
+
+Pero en otro sentido,
+siento que la cultura tecnológica
+
+o la sensibilidad colectiva
+de los ingenieros informáticos
+
+ha madurado mucho.
+
+En general,
+¿confías en los líderes tecnológicos
+
+detrás de los modelos
+de inteligencia artificial
+
+que existen en este momento?
+
+No creo que mi respuesta sea imparcial,
+porque conozco a la mayoría de ellos,
+
+pero creo que la IA
+se encuentra en buenas manos.
+
+¿Crees que aprenden de sus errores?
+
+Espero que así sea,
+
+porque todavía no hubo errores
+de los cuales aprender.
+
+¿Y las redes sociales?
+
+Ese es un buen ejemplo,
+
+pero las redes sociales
+preceden a los grandes modelos.
+
+Es decir, las redes sociales son
+una especie de modelo a escala de la IA
+
+porque funcionan a partir de algoritmos.
+
+Así que se podría decir
+que están impulsadas por la IA.
+
+Pero la repercusión de las redes sociales
+en la sociedad no fue igual para todos.
+
+A algunos les gustan más que a otros.
+
+Creo que muchas de las empresas
+fundadoras de las redes sociales
+
+han cometido errores colectivamente,
+
+y nosotros como usuarios
+hemos permitido que eso suceda
+
+o hemos dejado de usar esas plataformas.
+
+Y ahora muchas de esas mismas empresas,
+ingenieros o personas están creando
+
+nuevas tecnologías.
+
+Me pregunto realmente si habrán aprendido
+algo de sus errores
+
+en estos últimos 20 años.
+
+Así debería ser.
+
+Hay dos modelos de negocios
+de los gigantes tecnológicos
+
+en los Estados Unidos
+que son verdaderos titanes
+
+y que dependen del modelo
+de negocio de la publicidad.
+
+Y esos son Meta, Alphabet y Google.
+
+Y luego, existen
+otras empresas de tecnología
+
+que no dependen de la publicidad,
+que son Apple, Microsoft y Amazon.
+
+Y hay muchas quejas
+con respecto a estas empresas.
+
+Y está bien que así sea,
+porque deben ser receptivas.
+
+Sin embargo, las últimas que mencioné
+
+no tienen tantos efectos negativos
+en la sociedad,
+
+pero tienen una capitalización
+de mercado más pequeña.
+
+Me refiero a que Meta y Google
+deberían tener más éxito
+
+porque sus aportes son increíbles,
+
+pero están infravaloradas porque tienen
+
+el modelo de negocio equivocado
+en el que yo no creo.
+
+Porque pienso que las plataformas
+dirigidas por autoritarios
+
+nos van a sobrepasar,
+como sucede con TikTok.
+
+Estas plataformas no funcionan al máximo
+
+y no impulsamos un cambio
+porque estamos en una zona de confort,
+
+pero deberíamos hacerlo.
+
+Uno de los grandes problemas
+que surgen en términos de desinformación,
+
+democracia, redes sociales
+e inteligencia artificial
+
+son los deepfakes.
+
+Y es un tema realmente
+complicado para debatir,
+
+porque tiene el potencial
+de volverse mucho más grave
+
+con el avance
+de la inteligencia artificial
+
+y los modelos generativos
+que hemos visto
+
+en los últimos años, en particular.
+
+Me gustaría saber si crees
+que hay alguna forma de prevenir
+
+que esto se convierta
+en el próximo problema?
+
+Debo admitir que en los 90 tenía
+
+una empresa emergente
+de visión artificial con unos amigos
+
+e hicimos los primeros deepfakes
+de seguimiento de rostros.
+
+La culpa es tuya.
+
+Sí, totalmente.
+
+De hecho, usamos
+el primer sistema de deepfakes
+
+para bloquear escenas en Sentencia previa.
+
+¿Con publicidad de Guinness?
+
+Sí, de hecho incluye eso en el guion,
+
+pero estaba basado
+en un prototipo temprano de un deepfake.
+
+Volviendo a tu pregunta,
+
+la solución al problema de los deepfakes
+es conocer las fuentes.
+
+Para eso, el sistema de procedencia
+tiene que ser sólido y no falsificable.
+
+Este debería poder reconocer
+la presencia de combinaciones
+
+e identificar si, por ejemplo,
+alguien de la inteligencia militar china
+
+tomó distintos elementos
+para hacer un deepfake.
+
+De esa manera,
+podría descartar información falsa.
+
+Controlar las fuentes
+es la única forma de combatir el fraude.
+
+Además, creo que los reguladores
+deberían involucrarse en esto.
+
+Así que Microsoft, Open AI
+y todas las empresas de tecnología
+
+deberían exigir regulaciones.
+
+Pero la pregunta es: ¿cómo?
+
+Y si implementar normas
+
+significara tener un juez
+que opine sobre el origen de la IA,
+
+se convertiría en un proceso infinito.
+
+Pero si se basara
+en la procedencia de los datos,
+
+entonces habría un plan de acción
+
+y ya no se estarían usando
+términos indefinidos.
+
+Muchos sostienen que la IA debe estar
+alineada con el interés humano.
+
+Pero ¿a qué se refieren con eso?
+
+Trabajé mucho en privacidad.
+
+Ayudé a iniciar
+el Marco de Privacidad en Europa
+
+y el Reglamento General
+de Protección de Datos,
+
+y me atrevo a decir que todavía
+no sabemos que es la privacidad
+
+en el contexto texto de Internet.
+
+Entonces, teniendo en cuenta eso,
+
+los legisladores deberían intervenir
+y plantear regulaciones.
+
+¿Pero no cree que los políticos tienen
+
+demasiado miedo
+de desafiar a la tecnología?
+
+Qué buena pregunta.
+
+Durante mucho tiempo
+los líderes tecnológicos
+
+hemos ido al Congreso
+o a un parlamento en otro país
+
+y presionábamos a los legisladores.
+
+Les decíamos a los senadores
+y a los congresistas
+
+que no entendían de tecnología,
+que eran unos necios
+
+y que nosotros éramos los inteligentes
+y que no podían contradecirnos en nada.
+
+Esos episodios sucedían constantemente.
+
+Durante años, yo mismo tildé
+a los políticos de ineptos.
+
+Y creo que al presionarlos tanto
+logramos que se volvieran tímidos,
+
+lo cual nos perjudica.
+
+Y ahora, todos los que trabajan
+en IA en cualquier escala
+
+sostienen
+que les gustaría ser regulados
+
+y consideran
+que la industria de la tecnología
+
+debería estar regida por ciertas normas.
+
+¿Cuándo se volvió tan estrecha la relación
+
+entre los grandes líderes
+de la tecnología y los legisladores?
+
+No sé, pero nos llevamos bien.
+
+Vi la conferencia de Sam Altman,
+
+en la que abrió el diálogo
+con un panel de personas.
+
+Sí.
+
+A veces parecía
+que su discurso era amigable,
+
+pero no siempre,
+
+porque había una especie
+de exigencia implícita
+
+hacia los legisladores.
+
+No queremos problemas
+como los que surgen de las redes sociales.
+
+Queremos ser regulados, porque no tenemos
+la intención de arruinar la sociedad.
+
+La realidad es que dependemos de ella
+para que nuestro negocio sea exitoso.
+
+Y yo creo que...
+
+... hay algo de ambigüedad en todo esto,
+
+porque hay una corriente libertaria
+en la cultura tecnológica
+
+que considera
+que toda regulación es sospechosa,
+
+pero en realidad es la base sobre la cual
+podemos hacer negocios de forma libre.
+
+Necesitamos orden para funcionar.
+
+De lo contrario, la industria tecnológica
+
+se volvería una especie
+de supervivencia del más apto,
+
+lo que conduciría a una evolución natural
+extremadamente lenta.
+
+Ya sabemos que los mercados
+son rápidos y creativos,
+
+pero esas ventajas no se pueden lograr
+sin una base de regulación estable.
+
+Reconociste a Sam Altman
+como un colega y amigo.
+
+Así es.
+
+¿Has hablado con él recientemente
+sobre tus preocupaciones?
+
+Sí, lo hacemos con frecuencia,
+pero no puedo hablar por él.
+
+La verdad es que me siento muy cómodo
+trabajando con personas
+
+con las que no estoy
+completamente de acuerdo,
+
+pero nuestras ideas coinciden bastante.
+
+Por ejemplo,
+
+Sam quiere lanzar
+una criptomoneda universal
+
+basada en un escáner
+
+para recompensar a las personas
+que aporten información a la IA.
+
+Obviamente, yo no creo
+que esa sea una buena idea,
+
+porque si ese emprendimiento cae
+
+en las manos de alguna
+organización corrupta sería terrible.
+
+Por ejemplo, la criptografía
+es matemáticamente perfecta,
+
+pero también está llena de fraude.
+
+Hay prominencia al respecto.
+
+Sí.
+
+Creo que las grandes
+empresas de tecnología
+
+se han vuelto tan importantes
+para la sociedad
+
+que es realmente
+pertinente intentar demostrar
+
+que dentro de ellas
+puede haber libertad de expresión,
+
+y la gente seguirá comprando los productos
+y las acciones con normalidad.
+
+Y yo he intentado
+poner a prueba esa teoría
+
+al hacer comentarios que no son
+propiamente oficiales de Microsoft.
+
+Yo me esfuerzo por mejorar
+las cosas para Microsoft
+
+y me enorgullece que la gente
+
+quiera comprar nuestros
+servicios y acciones.
+
+Me gusta trabajar con los clientes
+y disfruto de desarrollar algo
+
+que a las personas les guste lo suficiente
+como para pagar por ello.
+
+Eso es lo que yo entiendo
+por economía de mercado
+
+y me gusta ser parte de ella.
+
+Y quisiera persuadir a mis colegas
+
+de algunas de las otras
+empresas de tecnología
+
+de que le hablen al público
+sobre sus realidades,
+
+porque podría ser bueno para ellos.
+
+Creo que hacer eso
+mejoraría el rendimiento
+
+de empresas como Google y Meta,
+
+que, como es sabido, son bastante
+reticentes a hacer comentarios.
+
+No cuentan con personas que hablen
+
+y creo que sufren
+las consecuencias de eso,
+
+a pesar de ser
+empresas grandes y exitosas.
+
+Entonces, creo que podrían hacer más.
+
+¿Qué te haría renunciar?
+
+Tendría que pensarlo,
+pero en este momento no se me ocurre nada.
+
+¿Hay algo que realmente
+no serías capaz de tolerar?
+
+La verdad es que no.
+
+Tendría que pensarlo en relación
+al contexto en el que me encuentre.
+
+No creo que se puedan establecer
+límites en esta industria,
+
+pero eso es muy personal.
+
+Y por cierto,
+hay algunas personas en Microsoft
+
+que tienen carreras públicas
+y hablan abiertamente.
+
+Y creo que adoptar ese enfoque
+ha funcionado bien.
+
+Además, quiero resaltar
+que no estoy de acuerdo
+
+con todo lo que sucede en Microsoft.
+
+La empresa es tan grande
+como un país y es muy diversa.
+
+Entonces, creo que ser perfeccionista
+no es algo beneficioso para nadie,
+
+aunque aquí en el área
+de la bahía de San Francisco
+
+hay muchas personas que quieren
+imponer un enfoque perfeccionista,
+
+pero soy fiel creyente
+
+de que hay que tratar
+de encontrar el equilibrio
+
+y tener en cuenta
+que la perfección no existe.
+
+Jaron, esta ha sido
+una conversación fascinante.
+
+Gracias por tu tiempo.
+
+Ha sido genial.
+
+Gracias por invitarme.
+
