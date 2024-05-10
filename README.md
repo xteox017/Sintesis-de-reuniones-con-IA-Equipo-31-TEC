@@ -54,3 +54,28 @@ Estas técnicas y enfoques permitirán sintetizar los audios largos de las reuni
 
 ## Conclusión
 Este primer avance del proyecto "Síntesis de reuniones a través de la Inteligencia Artificial" para SISTICA presenta un análisis exploratorio de datos inicial de las transcripciones de las reuniones. Se han identificado los pasos a seguir para completar el EDA.
+
+
+
+# AVANCE 2: Sintesis-de-reuniones-con-IA-Equipo-31-TEC
+# Proyecto: Síntesis de reuniones a través de la Inteligencia Artificial
+## Instrucciones
+En esta fase, conocida como ingeniería de características (FE - Feature Engineering):
+#### A Se aplicarán operaciones comunes para convertir los datos crudos del mundo real, en un conjunto de variables útiles para el aprendizaje automático. 
+## Normalización
+La normalización de texto es esencial en el campo del procesamiento de lenguaje natural para que las máquinas comprendan y analicen el lenguaje humano. Al estandarizar el texto, facilita la tarea de identificar componentes léxicos y realiza análisis lingüísticos.
+
+La normalización de texto desempeña un papel significativo en el campo del machine learning y la inteligencia artificial. En el aprendizaje automático, los modelos a menudo trabajan con datos de texto para tareas como la clasificación de texto, la generación de lenguaje natural y la extracción de información. La normalización de texto asegura que los modelos funcionen de manera efectiva al proporcionar datos limpios y coherentes para el entrenamiento.
+
+### ¿Cómo se realizará la normalización de texto?
+1.	Conversión a minúsculas: Para asegurarnos de que todas las palabras se comparen de manera uniforme, es común convertir todo el texto a minúsculas. De esta manera, “Texto” y “texto” se considerarán iguales.
+2.	Eliminación de caracteres especiales: Los caracteres especiales, como signos de puntuación o caracteres no alfabéticos, a menudo se eliminan o reemplazan por espacios en blanco.
+3.	Eliminación de números: En algunos casos, los números no son relevantes para el análisis de texto por lo que se pueden eliminar.
+4.	Tokenización: por medio del proceso de dividir el texto en palabras o tokens individuales. Esto permite analizar cada palabra por separado y es fundamental en el procesamiento de lenguaje natural.
+5.	Eliminación de palabras vacías: Las palabras vacías, como “a”, “de” y “en”, se eliminan, ya que no aportan significado en muchos casos.
+6.	Adicional se llevará a cabo la codificación mediante el estándar Unicode para la normalización de texto. Unicode es un sistema de codificación de caracteres que abarca la mayoría de los caracteres escritos utilizados en todo el mundo. Garantiza que los caracteres de diferentes idiomas se puedan representar de manera consistente en sistemas informáticos, lo que facilita la normalización de texto en varios idiomas, especialmente en aplicaciones globales y en el procesamiento de datos en diferentes lenguajes.
+
+
+
+## Librería Spacy para la normalización de texto
+Una herramienta valiosa para realizar la normalización de texto en programación es la librería Spacy. Spacy es una librería de procesamiento de lenguaje natural en Python que ofrece funciones avanzadas de tokenización, lematización y normalización de texto. 
