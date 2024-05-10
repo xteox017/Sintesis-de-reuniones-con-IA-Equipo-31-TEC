@@ -59,9 +59,9 @@ Este primer avance del proyecto "Síntesis de reuniones a través de la Intelige
 
 # AVANCE 2: Sintesis-de-reuniones-con-IA-Equipo-31-TEC
 # Proyecto: Síntesis de reuniones a través de la Inteligencia Artificial
-## Instrucciones
+### Instrucciones
 En esta fase, conocida como ingeniería de características (FE - Feature Engineering):
-#### A Se aplicarán operaciones comunes para convertir los datos crudos del mundo real, en un conjunto de variables útiles para el aprendizaje automático. 
+## A Se aplicarán operaciones comunes para convertir los datos crudos del mundo real, en un conjunto de variables útiles para el aprendizaje automático. 
 ## Normalización
 La normalización de texto es esencial en el campo del procesamiento de lenguaje natural para que las máquinas comprendan y analicen el lenguaje humano. Al estandarizar el texto, facilita la tarea de identificar componentes léxicos y realiza análisis lingüísticos.
 
@@ -77,5 +77,28 @@ La normalización de texto desempeña un papel significativo en el campo del mac
 
 
 
-## Librería Spacy para la normalización de texto
+### Librería Spacy para la normalización de texto
 Una herramienta valiosa para realizar la normalización de texto en programación es la librería Spacy. Spacy es una librería de procesamiento de lenguaje natural en Python que ofrece funciones avanzadas de tokenización, lematización y normalización de texto. 
+
+
+## B. Además, se utilizarán métodos de filtrado para la selección de características y técnicas de extracción de características, permitiendo reducir los requerimientos de almacenamiento, la complejidad del modelo y el tiempo de entrenamiento.
+
+El Análisis Semántico Latente (LSA) es una técnica computacional utilizada para analizar cómo se usan las palabras y los grupos de palabras en textos. 
+
+El LSA se utiliza para responder preguntas como: ¿Cuál es el significado subyacente del texto? ¿Qué efecto tienen las palabras en el significado de los pasajes?
+El lenguaje, especialmente en inglés, es complejo debido a que las palabras pueden tener múltiples significados. Por ejemplo, la palabra “caliente” puede significar cosas diferentes según el contexto.
+
+### Método:
+Se crea una matriz donde cada elemento muestra con qué frecuencia aparecen las palabras en un texto.
+El LSA utiliza una técnica avanzada de álgebra matricial llamada Descomposición de Valores Singulares (SVD) para factorizar estas matrices.
+Básicamente, el texto se convierte en matrices para representar pasajes, y cada celda de la matriz contiene el número de veces que aparece una palabra específica en un pasaje.
+Luego, se factoriza la matriz para representar cada pasaje como un vector, donde el valor de cada vector es la suma de los vectores que representan sus palabras componentes.
+Se utilizan productos de puntos o métricas similares para medir similitudes entre palabras y pasajes.
+
+El análisis semántico latente (LSA) es una técnica estadística para analizar y modelar relaciones entre términos y documentos en un gran corpus de texto. Es una forma de reducción de la dimensionalidad que tiene como objetivo descubrir la estructura semántica subyacente del texto mediante la reducción de la dimensionalidad de los datos mientras se retiene la mayor cantidad de información relevante posible. LSA se usa ampliamente en aplicaciones de procesamiento de lenguaje natural (NLP), como agrupación de documentos, recuperación de información y clasificación de texto.
+
+En esencia, LSA se basa en la suposición de que las palabras que se usan en contextos similares tienden a tener significados similares. LSA representa documentos como vectores en un espacio de alta dimensión, donde cada dimensión representa un término en el corpus. Las entradas en el vector representan la frecuencia de cada término en el documento. Luego, el algoritmo LSA transforma la matriz de documento de término en un espacio de menor dimensión al descomponerlo en sus valores singulares y vectores singulares constituyentes. La matriz resultante es una representación densa y de baja dimensión de los datos originales que captura las relaciones latentes entre los términos y los documentos.
+
+Uno de los beneficios clave de LSA es que puede usarse para identificar relaciones semánticas entre palabras y documentos, incluso cuando esas relaciones no se expresan explícitamente en el texto. Por ejemplo, LSA se puede utilizar para identificar sinónimos, antónimos y otras relaciones semánticas entre palabras en función de sus patrones de concurrencia en el corpus. De manera similar, LSA se puede usar para identificar similitudes y diferencias entre documentos en función de su estructura semántica subyacente.
+
+LSA tiene una amplia gama de aplicaciones en PNL. Una de sus aplicaciones más comunes es la recuperación de información, donde se utiliza para clasificar documentos en función de su relevancia para una consulta determinada. En este contexto, LSA se puede utilizar para identificar documentos que son semánticamente similares a la consulta, incluso si no contienen exactamente las mismas palabras clave. LSA también se puede utilizar para la clasificación de texto, donde se utiliza para clasificar documentos automáticamente en categorías predefinidas en función de su contenido semántico.
