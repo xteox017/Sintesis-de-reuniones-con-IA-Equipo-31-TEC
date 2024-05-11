@@ -133,3 +133,38 @@ doc = nlp(text)
 
 for entity in doc.ents:
     print(entity.text, entity.label_)
+
+
+    Discretización o binning
+
+Definición de Bins para la frecuencia de las palabras claves:
+
+Bajo: 0-2 menciones
+Medio: 3-5 menciones
+Alto: más de 5 menciones
+
+Umbral de varianza
+
+En el contexto se utilizará para el filtrado de las características en la clasificación del texto. Para terminar con miles de características, muchas de las cuales aparecen en muy pocos textos convertidor desde las reuniones de voz y tienen baja varianza. Aplicando un umbral de varianza, que pueden eliminar esas palabras que no contribuyen significativamente a la variabilidad en los datos, simplificando el modelo y potencialmente mejorando el tiempo de entrenamiento y la generalización del modelo.
+
+Correlación
+
+En el contexto de las transcripciones de texto, no hay variables dependientes e independientes explícitas. Sin embargo, se explorará la correlación entre la duración de las reuniones y la longitud de las transcripciones para ver si existe alguna relación.
+
+Chi-cuadrado
+
+Chi-cuadrado para identificar y seleccionar las palabras (características) que tienen la mayor diferencia en la frecuencia de aparición entre las dos categorías (importante no importante )Esto ayuda a reducir la dimensión del espacio de características, manteniendo sólo aquellas palabras que son más informativas para la clasificación.
+ANOVA
+
+Si necesitamos  funcionar en varios idiomas ( ejemplo de inglés vs español), ANOVA puede ayudarte a comparar el rendimiento del sistema a través de diferentes idiomas para identificar si el sistema es consistentemente efectivo o si hay variaciones significativas en su eficacia entre idiomas. Esto es crucial para desarrollar sistemas más robustos y generalizables para las reuniones en los dos idiomas, no será el alcance del proyecto pero podremos testear un par de conversaciones en inglés y español.
+
+Análisis de componentes principales (PCA)
+
+
+no lo utilizaremos por el momento
+Análisis factorial (FA)
+
+Nos servirá para el modelado de Temas:Similar al modelado de temas con LDA (Latent Dirichlet Allocation), el análisis factorial puede ser usado para identificar temas  de las reuniones o conceptos latentes de tecnología intrínsecos de la empresa y sus clientes  en un conjunto de textos dado de las conversaciones. Estos factores pueden representar temas recurrentes ayudando a los analistas a entender y resumir grandes volúmenes de texto de manera eficiente.
+
+
+
