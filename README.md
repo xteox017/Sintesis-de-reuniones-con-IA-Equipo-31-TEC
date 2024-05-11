@@ -102,3 +102,34 @@ En esencia, LSA se basa en la suposición de que las palabras que se usan en con
 Uno de los beneficios clave de LSA es que puede usarse para identificar relaciones semánticas entre palabras y documentos, incluso cuando esas relaciones no se expresan explícitamente en el texto. Por ejemplo, LSA se puede utilizar para identificar sinónimos, antónimos y otras relaciones semánticas entre palabras en función de sus patrones de concurrencia en el corpus. De manera similar, LSA se puede usar para identificar similitudes y diferencias entre documentos en función de su estructura semántica subyacente.
 
 LSA tiene una amplia gama de aplicaciones en PNL. Una de sus aplicaciones más comunes es la recuperación de información, donde se utiliza para clasificar documentos en función de su relevancia para una consulta determinada. En este contexto, LSA se puede utilizar para identificar documentos que son semánticamente similares a la consulta, incluso si no contienen exactamente las mismas palabras clave. LSA también se puede utilizar para la clasificación de texto, donde se utiliza para clasificar documentos automáticamente en categorías predefinidas en función de su contenido semántico.
+
+Flexibilidad y escalabilidad: NLP que requieren procesar grandes volúmenes de texto.
+
+## Tokenización de texto con NLTK
+La tokenización es el proceso de dividir un texto en unidades más pequeñas, como palabras o frases. NLTK proporciona una función de tokenización que nos permite dividir un texto en palabras individuales de manera sencilla
+
+import nltk
+
+nltk.download('punkt')
+
+from nltk.tokenize import word_tokenize
+
+text = "El procesamiento de lenguaje natural es fascinante."
+
+tokens = word_tokenize(text)
+
+print(tokens)
+
+## Extracción de entidades nombradas con spaCy
+Las entidades nombradas son fragmentos de texto que hacen referencia a personas, lugares, organizaciones, fechas, etc. SpaCy nos permite identificar y extraer entidades nombradas de un texto:
+
+import spacy
+
+nlp = spacy.load("es_core_news_sm")
+
+text = "Juan trabaja en Google desde el año 2010."
+
+doc = nlp(text)
+
+for entity in doc.ents:
+    print(entity.text, entity.label_)
